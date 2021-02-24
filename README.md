@@ -1,5 +1,4 @@
 ## Date picker
-ссылке на GitHub pages https://yuliaiv-iv.github.io/calendar-picker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
